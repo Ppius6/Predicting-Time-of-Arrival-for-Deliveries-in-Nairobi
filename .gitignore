@@ -1,2 +1,5 @@
 # Ignore datasets folder
 /datasets/
+
+# Ignore env folder
+/env/
